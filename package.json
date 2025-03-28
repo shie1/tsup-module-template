@@ -12,6 +12,7 @@
   "type": "module",
   "devDependencies": {
     "@types/node": "^22.9.0",
-    "tsup": "^8.3.5"
+    "tsup": "^8.3.5",
+    "typescript": "^5.8.2"
   }
 }
