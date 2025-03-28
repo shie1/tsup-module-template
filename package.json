@@ -1,0 +1,17 @@
+{
+  "name": "tsup-module-template",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "scripts": {
+    "build": "tsup"
+  },
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsup": "^8.3.5"
+  }
+}
